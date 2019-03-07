@@ -5,3 +5,6 @@
 
 ## Repositories
 - [ARD-aktuell](https://github.com/ard-aktuell/)
+- [BR Data](https://github.com/br-data)
+- [NDR](https://github.com/NorddeutscherRundfunk)
+- [WDR Data](https://github.com/wdr-data)
