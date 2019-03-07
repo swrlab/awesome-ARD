@@ -8,4 +8,5 @@
 - [BR Data](https://github.com/br-data)
 - [NDR](https://github.com/NorddeutscherRundfunk)
 - [SWR](https://gitlab.com/openswr)
+- [Tagesschau](https://github.com/tagesschau)
 - [WDR Data](https://github.com/wdr-data)
