@@ -49,3 +49,8 @@
 - [PULS 128 kbit/s](http://streams.br.de/puls_2.m3u)
 
 ## API
+
+## Other Clients
+### Tagesschau
+- [Kodi](https://github.com/joerns/xbmc-plugin.video.tagesschau)
+- [Roku](https://github.com/henningSaul/tagesschau-on-roku)
