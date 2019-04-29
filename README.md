@@ -10,6 +10,8 @@
 
 - [ARD-aktuell](https://github.com/ard-aktuell/)
 - [BR Data](https://github.com/br-data)
+- [DW Data](https://github.com/dw-data)
+- [IRT](https://github.com/IRT-Open-Source/)
 - [NDR](https://github.com/NorddeutscherRundfunk)
 - [SWR](https://gitlab.com/openswr)
 - [Tagesschau](https://github.com/tagesschau)
