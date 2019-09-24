@@ -13,6 +13,7 @@
 - [DW Data](https://github.com/dw-data)
 - [IRT](https://github.com/IRT-Open-Source/)
 - [NDR](https://github.com/NorddeutscherRundfunk)
+- [rbb|data](https://github.com/rbb-data)
 - [SWR](https://gitlab.com/openswr)
 - [Tagesschau](https://github.com/tagesschau)
 - [WDR Data](https://github.com/wdr-data)
